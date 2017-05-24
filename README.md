@@ -1,3 +1,5 @@
+05.24.17 This seems broken.  Npm start won't run and I can't remember where I left off anyway.
+Restarting project in new repo https://github.com/beansprout/LS-React2.git
 # React
 
 Topics:
